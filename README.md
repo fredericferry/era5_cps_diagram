@@ -1,6 +1,10 @@
 # Cyclone phase space from ERA5 data.
 
-If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
+Note 1: This code was deveopped for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
+
+Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Cyclone Phase Space Diagram (Hart, 2003 : http://moe.met.fsu.edu/~rhart/papers-hart/2003Hart.pdf) is a useful diagnostic tool that allows to characterize the thermodynamical structure of tropical and extratropical cyclones. The diagnotic is based on the analysis of the storm-relative thickness assymmetry in the lower troposphere and the warm core/cold core structure of the system in the lower and upper levels of the troposphere.
 
