@@ -1,6 +1,6 @@
 # Cyclone phase space from ERA5 data.
 
-Note 1: This code was deveopped for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
+Note 1: This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
 
