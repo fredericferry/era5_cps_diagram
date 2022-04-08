@@ -6,6 +6,7 @@ The parameters that are computed to build this diagram allow to describe the war
 
 This notebook provides a step by step tutorial to build the Cyclone Phase Space diagrams using ERA5 reanalysis in netcdf format. The illustrating example proposed in the notebook is the tropical transition of tropical cyclone Ophelia in October 2017.
 
+![MSL_tracking-min](https://user-images.githubusercontent.com/76565450/162413793-6dd8a1ac-cef4-4a28-8161-fe3c2154a282.gif)
 ![b](https://user-images.githubusercontent.com/76565450/162413008-78e02cfa-8a39-42f1-afb5-89d2e09f07ce.png)
 ![z](https://user-images.githubusercontent.com/76565450/162413018-10332868-301e-4dfb-820c-8ec1cd43313a.png)
 ![deltaz](https://user-images.githubusercontent.com/76565450/162413053-438f1839-56df-4956-af64-641345d0f6eb.png)
