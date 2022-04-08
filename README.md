@@ -1,6 +1,6 @@
 # cps_era5
 
-The Cyclone Phase Space Diagram (moe.met.fsu.edu/~rhart/papers-hart/2003Hart.pdf) is a useful diagnostic tool that allows to characterize the thermodynamical structure of tropical and extratropical cyclones. This diagnotic is based on the analysis of the storm-relative thickness assymmetry in the lower troposphere and the warm core/cold core structure of the system in the lower and upper levels of the troposphere.
+The Cyclone Phase Space Diagram (http://moe.met.fsu.edu/~rhart/papers-hart/2003Hart.pdf) is a useful diagnostic tool that allows to characterize the thermodynamical structure of tropical and extratropical cyclones. This diagnotic is based on the analysis of the storm-relative thickness assymmetry in the lower troposphere and the warm core/cold core structure of the system in the lower and upper levels of the troposphere.
 
 The parameter that are computed to build this diagram allow to describe the warm core structure of a tropical cyclone, the cold core structure of an extratropical cyclone and its stages of evolution (formation, intensification, occulsion, weakening, development of warm seclusions). It also permits the analysis of the hybrid structure of an extratropical cyclones, the extratropical transitions of a tropical cyclone and the tropical transition of a subtropical cyclone.
 
