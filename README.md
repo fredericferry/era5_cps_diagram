@@ -1,12 +1,12 @@
 # Cyclone phase space from ERA5 data.
 
-Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
+Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
 
 Data needed to run the notebook :
 
-- For each system, a corresponding tracking file (txt format) needs to be present in the txt folder.
+- For each system, a corresponding tracking file (txt format) is stored in the txt folder. If you study another system you will need to create your own tracking file.
 - You will need to download hourly data of Mean Sea Level Pressure and Geopotential height for the desired storm in netcdf format and on a limited area domain (-100W-50E, 0-90N) :
 
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
