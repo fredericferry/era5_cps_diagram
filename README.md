@@ -1,8 +1,17 @@
 # Cyclone phase space from ERA5 data.
 
-Note 1: This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
+Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English. This should not pose any problem to understand the code.
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
+
+Data needed to run the notebook :
+
+- For each system, a corresponding tracking file (txt format) needs to be present in the txt folder.
+- You will need to download hourly data of Mean Sea Level Pressure and Geopotential height for the desired storm in netcdf format and on a limited area domain (-100W-50E, 0-90N) :
+
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
+
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,10 +27,3 @@ This notebook provides a step by step tutorial to build the Cyclone Phase Space 
 ![deltaz](https://user-images.githubusercontent.com/76565450/162413053-438f1839-56df-4956-af64-641345d0f6eb.png)
 ![cps1](https://user-images.githubusercontent.com/76565450/162413251-c344ee20-1fab-4ae8-993f-03bce7df0e9b.png)
 ![cps2](https://user-images.githubusercontent.com/76565450/162413260-2ec66ba3-b702-4803-bb7d-411a2a4a25b7.png)
-
-
-For each system, a corresponding tracking file (txt format) must present in the txt folder. This file was generated with an automatic tracking algorithm (not provided) applied to ERA5 Mean Sea Level Pressure data. To run the notebook, you will also need to download hourly data of Mean Sea Level Pressure and Geopotential for yhe desired storm in netcdf format and on a limited area domain (-100W-50E, 0-90N) :
-
-https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
-
-https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form
