@@ -24,6 +24,5 @@ This notebook provides a step by step tutorial to build the Cyclone Phase Space 
 ![MSL_tracking-min](https://user-images.githubusercontent.com/76565450/162413793-6dd8a1ac-cef4-4a28-8161-fe3c2154a282.gif)
 ![b](https://user-images.githubusercontent.com/76565450/162413008-78e02cfa-8a39-42f1-afb5-89d2e09f07ce.png)
 ![z](https://user-images.githubusercontent.com/76565450/162413018-10332868-301e-4dfb-820c-8ec1cd43313a.png)
-![deltaz](https://user-images.githubusercontent.com/76565450/162413053-438f1839-56df-4956-af64-641345d0f6eb.png)
 ![cps1](https://user-images.githubusercontent.com/76565450/162413251-c344ee20-1fab-4ae8-993f-03bce7df0e9b.png)
 ![cps2](https://user-images.githubusercontent.com/76565450/162413260-2ec66ba3-b702-4803-bb7d-411a2a4a25b7.png)
